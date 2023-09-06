@@ -1,7 +1,10 @@
 ### Hey, I'm Kelvin Ferraz! 🤟
 
-I'm Post Graduate in Cloud Computing. Over 10 years of working as SysAdmin Linux, which gave me a good knowledge to enter the DevOps and IaC, I gained a good part of this experience working in a large Brazilian institution and large companies in São Paulo, in which I acquired a good personal and professional experience
-Open-Source and Linux enthusiast, I always love spending my time testing new technologies, I'm passionate about Shell Script and Python, which helps me create my automations, I'm always looking for personal and professional improvement. I love working with challenges, I think it's stimulating and a fuel for creativity and innovation
+I am a DevOps engineer with a postgraduate degree in Cloud Computing, and over 10 years of experience as a Linux SysAdmin. I have a genuine passion for Open-Source technologies and Linux, constantly seeking to explore new tools and solutions to drive automation and process efficiency. 
+
+My areas of expertise include automation/IaC using Ansible, Terraform, and Puppet, CI/CD with GitLab and Jenkins, monitoring with Zabbix, Grafana, and Prometheus, and orchestration with Kubernetes. I have strong scripting skills in Shell Script and Python, and experience with cloud providers such as AWS, GCP, and Digital Ocean. 
+
+I am a motivated, communicative leader, results-oriented with problem-solving skills and analytical thinking. I am always pursuing continuous learning and am a committed collaborator in promoting technical excellence and project success. Let's connect and discuss how I can add value to your team and drive the adoption of DevOps best practices.
 
 ### 🧠 My Knowledges:
 
